@@ -1,11 +1,11 @@
 # portfolio
-![App Preview](po.png)
+![App Preview](assets/images/Portfolio_ui.png)
 
 
 
 A new Flutter project.
 
-## Getting Started
+## Getting Startedg
 
 This project is a starting point for a Flutter application.
 
